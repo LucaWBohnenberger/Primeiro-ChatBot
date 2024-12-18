@@ -34,5 +34,9 @@ Este projeto é um chatbot desenvolvido para analisar conteúdos de vídeos do Y
 
  3. **Instale as dependências:**
     ```bash
+    pip install langcahin langchain-community langchain-groq youtube_transcript_api pypdf
+    ```
+ 4. **Executando o código**
+    ```bash
     python projeto.py
     ```
